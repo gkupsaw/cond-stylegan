@@ -1,0 +1,11 @@
+*.env/
+/env
+*.pages
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tar
+*.tar.gz
+
